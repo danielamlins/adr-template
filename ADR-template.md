@@ -6,7 +6,7 @@ Author: NAME
 
 ## Status
 
-STATUS
+STATUS - proposed, accepted, deprecated, superseded
 
 ## Context
 
@@ -14,7 +14,7 @@ The issue motivating this decision, and any context that influences or constrain
 
 ## Decision
 
-The change that we're proposing or have agreed to implement.
+The change that we're proposing or have agreed to implement ("We will...").
 
 ## Consequences
 
