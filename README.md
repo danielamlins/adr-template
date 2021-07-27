@@ -1,6 +1,6 @@
 # NUMBER. TITLE
 
-Date: DATE
+Date: DATE. 
 Author: NAME
 
 ## Status
